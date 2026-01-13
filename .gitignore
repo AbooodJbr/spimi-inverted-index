@@ -1,0 +1,33 @@
+# Build outputs
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.obj
+*.o
+*.pch
+*.pdb
+*.idb
+*.stackdump
+
+# Generated indexes or binaries
+*.bin
+*.out
+*.log
+
+# Temporary/editor files
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+~*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings (keep only if intentionally shared)
+.vscode/
+.idea/
